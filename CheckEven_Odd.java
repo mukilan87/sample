@@ -1,7 +1,5 @@
 package ExamplePrograms;
-
 import java.util.Scanner;
-
 public class CheckEven_Odd {
 	public static void main(String[] args) {
 		Scanner toscan =new Scanner(System.in);
