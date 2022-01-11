@@ -1,4 +1,4 @@
-package ExamplePrograms;
+package ExampleProg;
 import java.util.Scanner;
 public class CheckEven_Odd {
 	public static void main(String[] args) {
